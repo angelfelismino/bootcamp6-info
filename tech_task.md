@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The TechLadies Bootcamp is a 13-week part-time accelerated learning program designed for women who wish to be professional programmers. Participants will be guided by industry experts to create products for different NGOs.
+The TechLadies Bootcamp is a 14-week part-time accelerated learning program designed for women who wish to be professional programmers. Participants will be guided by industry experts to create products for different NGOs.
 
 Visit the [bootcamp info](http://www.techladies.co/bootcamp-6) page for more details.
 
@@ -39,7 +39,7 @@ We have 2 assignments that you can choose from. **Choose one to work on.**
     * Protect your API with authentication. Simple username and password authentication is sufficient.
 
 <br>
-To stand out from the rest, you are highly encouraged to not follow a single online tutorial to the T. Do read up on multiple resources to understand the concepts or google your way to finding how to accomplish what you want to code.
+To stand out from the rest, you are highly encouraged to not follow a single online tutorial. Do read up on multiple resources to understand the concepts or google your way to finding how to accomplish what you want to code.
 
 ## Submitting Your Entry
 
@@ -53,11 +53,11 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 
 Join us at our upcoming pre-bootcamp workshops where we will teach you the skills to complete the Technical Task!
 
-* Install Fest - 11 July 2020
-* Introduction to HTML & CSS - 18 Jul 2020
-* Introduction to VueJs - 25 Jul 2020
-* Introduction to REST Api using NodeJs & Express - 1 Aug 2020
-* Code Clinic - 8 Aug 2020
+* Install Fest - 11 July 2020 [(CLICK TO SIGN-UP)](https://www.eventbrite.sg/e/techladies-bootcamp-2020-install-fest-tickets-112214029182?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+* Introduction to HTML & CSS - 18 Jul 2020 [CLICK TO SIGN-UP)](https://www.eventbrite.sg/e/introduction-to-html-css-tickets-112224115350?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+* Introduction to VueJs - 25 Jul 2020 [(CLICK TO SIGN-UP)](https://www.eventbrite.sg/e/introduction-to-vuejs-tickets-112224911732?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+* Introduction to REST Api using NodeJs & Express - 1 Aug 2020 [(CLICK TO SIGN-UP)](https://www.eventbrite.sg/e/introduction-to-rest-api-using-nodejs-express-tickets-112225473412?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+* Code Clinic - 8 Aug 2020 [(CLICK TO SIGN-UP)](https://www.eventbrite.sg/e/techladies-pre-bootcamp-code-clinic-tickets-112226013026)
 
 Please install the [pre-requisite](pre_requisite_software.md) software before attending the sessions.
 
